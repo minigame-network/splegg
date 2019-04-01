@@ -1,0 +1,6 @@
+name: Splegg
+version: 1.0.0
+description: Splegg Plugin
+authors: [Sodex234, chasertw123]
+depend: [ParadiseCore]
+main: me.chasertw123.minigames.splegg.Main
